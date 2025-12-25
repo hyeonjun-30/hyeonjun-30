@@ -7,10 +7,11 @@
 ---
 
 ### 🛠 기술 스택
-- **Language**: Java, SQL, JavaScript
-- **Framework**: Spring Boot, Nexacro 14
-- **Database**: Oracle
-- **Tools**: Git, IntelliJ, VS Code , PO
+- Language: Java, SQL, JavaScript
+- Framework: Spring Boot, Nexacro 14
+- Database: Oracle
+- Reporting: OZ Report
+
 
 ---
 
