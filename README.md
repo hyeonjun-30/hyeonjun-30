@@ -1,7 +1,7 @@
 ## 👋 안녕하세요, 현준입니다
 
 대구에서 개발자로 활동하고 있습니다.  
-💻 Nexacro · Oracle · Spring Boot 기반 실무 경험  
+💻 Nexacro · Oracle · Java 기반 실무 경험  
 🚀 안정적인 운영과 유지보수를 중시합니다
 
 ---
